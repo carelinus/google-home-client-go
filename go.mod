@@ -7,5 +7,5 @@ require (
 	github.com/evalphobia/google-tts-go v0.3.0
 	github.com/gogo/protobuf v1.2.1 // indirect
 	github.com/stretchr/testify v1.3.0 // indirect
-	golang.org/x/net v0.0.0-20190522155817-f3200d17e092 // indirect
+	golang.org/x/net v0.33.0 // indirect
 )
